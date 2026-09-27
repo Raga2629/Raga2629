@@ -185,15 +185,15 @@
 </p>
 
 <p>
-  <a href="YOUR_CODECHEF_PROFILE_URL">
+  <a href="https://www.codechef.com/users/ragamala93">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_PROFILE_URL">
+  <a href="https://leetcode.com/u/Ragamala93/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="YOUR_CODEFORCES_PROFILE_URL">
+  <a href="https://codeforces.com/profile/nasaniragamala">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
